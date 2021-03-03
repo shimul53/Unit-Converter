@@ -1,0 +1,23 @@
+<resources>
+    <!-- Base application theme. -->
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimary">#651FFF</item>
+        <item name="colorPrimaryDark">#651FFF</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@drawable/backgroud_color</item>
+    </style>
+
+    <style name="HospitalTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#651FFF</item>
+        <item name="colorPrimaryDark">#651FFF</item>
+        <item name="colorAccent">#FFFFFF</item>
+        <item name="android:windowBackground">@drawable/backgroud_color</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    <string-array name="currency">
+        <item>Dollar</item>
+        <item>BDT</item>
+    </string-array>
+
+</resources>
